@@ -14,11 +14,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amandeep-s-693545138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amandeep singh" height="30" width="40" /></a>
-<a href="https://fb.com/amandeep singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amandeep singh" height="30" width="40" /></a>
+<a href="https://fb.com/Amandeep Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amandeep singh" height="30" width="40" /></a>
 <a href="https://instagram.com/asalagh1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asalagh1920" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ASA-HELPER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asa-helper" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ProAmandeepSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="proamandeepsingh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/Amandeep Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amandeep singh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ProAmandeepSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ProAmandeepSingh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/Amandeep Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Amandeep Singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
