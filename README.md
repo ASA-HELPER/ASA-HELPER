@@ -20,7 +20,7 @@
 <a href="https://www.github.com/ASA-HELPER" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
 <a href="https://www.linkedin.com/in/amandeep-s-693545138" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
 <a href="http://www.instagram.com/asalagh1920" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730747/ease-prof/social/instagram-icon_awmjo1.svg" height="40" width="40" alt=instagram/>
-<a href="https://codeforces.com/profile/ASA-HELPER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asa-helper" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ASA-HELPER" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" alt=leetcode/>
 <a href="https://leetcode.com/ASA_HELPER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ProAmandeepSingh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amandeep27803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Amandeep Singh" height="30" width="40" /></a>
 
