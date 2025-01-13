@@ -38,5 +38,4 @@
 
 <h2>Badges</h2>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ASA-HELPER&show_icons=true&theme=dark"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ASA-HELPER&theme=dark"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASA-HELPER&layout=compact&theme=dark"/>
