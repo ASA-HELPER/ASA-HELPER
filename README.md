@@ -15,8 +15,9 @@
 
 - ✉️ Contact Me At *<u><a href=mailto:amandeep27803@gmail.com target="_blank">amandeep27803@gmail.com</a></u>*
 
+- I solve DSA problems on a daily basis at LeetCode.
 
-- I solve DSA problems on daily basis at LeetCode.
+
 <h2>Social</h2>
 <a href="https://www.github.com/ASA-HELPER" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
 <a href="https://www.linkedin.com/in/amandeep-s-693545138" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
