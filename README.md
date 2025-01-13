@@ -1,14 +1,15 @@
 <h1 align="center">👋 Hola, I'm Amandeep Singh (ASA_HELPER)</h1>
 
-<h3 align="center">Problem-Solver | Web Developer</h3>
+<h3 align="center">ASE @ Accenture | EX-SWE @ Vectoscalar Technologies | Problem-Solver | Frontend Developer</h3>
 
-<h3 align="center">I am student and a learner who loves programming and interacting with the people of similar interest so that I can develop myself into a better version.</h3>
+<h3 align="center">I am a learner who loves programming and interacting with people of similar interests to develop myself into a better version.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🌱 I’m currently learning : 
-  - **Data Structures and Algorithms**
-  - **Web Development**
+  - **Nodejs**
+  - **MongoDB**
+  - **Express**
 
  - 🌍 I'm based in **India**
 
