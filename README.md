@@ -4,7 +4,7 @@
 
 <h3 align="center">I am a learner who loves programming and interacting with people of similar interests to develop myself into a better version.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🌱 I’m currently learning : 
   - **Nodejs**
@@ -38,5 +38,7 @@
 <a href="https://mongoosejs.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729957/ease-prof/programming%20languages/icons8-mongoose_iuaxod.svg" height="40" width="40" alt=Mongoose/>
 
 <h2>Badges</h2>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ASA-HELPER&show_icons=true&theme=dark"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASA-HELPER&layout=compact&theme=dark"/>
+<div>
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ASA-HELPER&show_icons=true&theme=dark"/>
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASA-HELPER&layout=compact&theme=dark"/>
+</div>
